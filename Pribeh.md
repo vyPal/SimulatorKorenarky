@@ -1,5 +1,5 @@
 # Informace
-10 minut IRL = 1 rok zívota babičky = 1 den hry
+10 minut IRL = 1 rok života babičky = 1 den hry
 
 # Začátek
 Babička nemá dost peněz na žití z důchodu, koupí z našetřených peněz semínka trávy, a začne pěstovat
